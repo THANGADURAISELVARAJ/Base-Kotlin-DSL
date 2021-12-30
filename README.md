@@ -12,7 +12,7 @@
     4) Better IDE experience
     5) Code Navigations
     6) Auto completion
-    7) It’s Kotlin!
+    7) It’s Kotlin❤️
 
 ## Tech Uses:
     Kotlin
