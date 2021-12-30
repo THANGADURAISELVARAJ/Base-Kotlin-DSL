@@ -2,7 +2,7 @@
    In this project i just convert gradle(groovy) to Kotlin DSL.
    
 ## Why?
-  We are in 2022. now everything it's Kotlin 
+  We are in 2022. now everything it's Kotlin🤪
    
 
 ## Benifits
