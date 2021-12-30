@@ -5,12 +5,14 @@
   We are in 2022. now everything it's Kotlin🤪
    
 
-## Benifits
+## Benefits 
     1) Simplified plugins syntax
     2) Default lazy task configuration
     3) Compile time checks
     4) Better IDE experience
-    5) It’s Kotlin!
+    5) Code Navigations
+    6) Auto completion
+    7) It’s Kotlin!
 
 ## Tech Uses:
     Kotlin
